@@ -99,4 +99,5 @@ Open Serial Monitor:
 ```text id="x4m8vb"
 115200 baud
 ```
-
+## ▶ reference
+https://learn.adafruit.com/adafruit-memento-camera-board?view=all&utm_source=chatgpt.com
