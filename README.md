@@ -12,9 +12,11 @@ width="100%"/>
 </td>
 
 <td width="33%" valign="top" align="center">
-  <video width="400" height="250" controls>
-  <source src="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/blob/main/video.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <a href="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/raw/main/video.mp4">
+    <img src="adafruit_products_5420-03.jpg" width="500">
+  </a>
+</p>
 </td>
 
 </tr>
