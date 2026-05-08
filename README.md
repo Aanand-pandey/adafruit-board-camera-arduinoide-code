@@ -14,8 +14,9 @@ width="100%"/>
 <td width="33%" valign="top" align="center">
 <p align="center">
   <a href="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/raw/main/video.mp4">
-    <img src="adafruit_products_5420-03.jpg" width="500">
+    <img src="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/blob/main/Screenshot%202026-05-08%20224625.png" width="20000" >
   </a>
+  click to play
 </p>
 </td>
 
