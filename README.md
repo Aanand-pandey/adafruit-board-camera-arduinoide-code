@@ -1,101 +1,95 @@
-Adafruit MEMENTO Camera Project (Arduino IDE)
-📷 Project Overview
+# 📷 Adafruit MEMENTO Camera Project
+<table width="100%">
+<tr>
 
-This project demonstrates how to use the Adafruit MEMENTO Camera Board with the Arduino IDE
- for basic camera initialization and image capture using the ESP32-S3 microcontroller.
+<td width="33%" valign="top" align="center">
+  <img src="https://github.com/Aanand-pandey/IoT-Home-Automation-And-monitoring-system/blob/main/photo_6_2026-05-01_20-01-18.jpg"
+width="100%"/>
+</td>
 
-The project can be extended for:
+<td width="33%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/Anand8689/IoT-Home-Automation-And-monitoring-system/98380f182f38c96788b867e42e601984c997b2ef/Screenshot%20(32).png" width="100%"/>
+</td>
 
-Smart camera systems
-IoT image capture
-AI vision projects
-SD card image storage
-Wi-Fi image streaming
-🛠 Hardware Required
-Component	Quantity
-Adafruit MEMENTO Camera Board	1
-USB-C Cable	1
-Computer/Laptop	1
+<td width="33%" valign="top" align="center">
+  <img src="https://github.com/Aanand-pandey/IoT-Home-Automation-And-monitoring-system/blob/main/photo_7_2026-05-01_20-01-18%20-%20Copy.jpg"
+<img align="right"width="4000" height="2000" alt="image" />
+</td>
+
+</tr>
+</table>
+Using the Adafruit MEMENTO Camera Board with [Arduino IDE](https://www.arduino.cc/en/software?utm_source=chatgpt.com) for camera programming using the ESP32-S3 microcontroller.
+
+---
+
+## 🚀 Features
+
+* 📷 Camera Support
+* 🌐 Wi-Fi + BLE
+* 🔌 USB Programming
+* 🖥 Built-in Display
+* 💾 SD Card Support
+
+---
+
+## 🛠 Hardware Required
+
+* Adafruit MEMENTO Camera Board
+* USB-C Cable
+* Computer/Laptop
 
 Optional:
 
-MicroSD card
-Li-ion battery
-💻 Software Required
-Arduino IDE
-ESP32 Board Package
-USB Drivers (if needed)
-⚙ Arduino IDE Setup
-Step 1 — Install Arduino IDE
+* MicroSD Card
+* Li-ion Battery
 
-Download from:
+---
 
-Arduino IDE Download
+## ⚙ Arduino IDE Setup
 
-Step 2 — Add ESP32 Board URL
+### Add ESP32 Board URL
 
 Open:
 
+```text id="v3m7np"
 File → Preferences
+```
 
-Add this URL in:
+Paste:
 
-Additional Boards Manager URLs
-
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-
-Step 3 — Install ESP32 Package
-
-Go to:
-
-Tools → Board → Boards Manager
-
-Search:
-
-ESP32
+[https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
 
 Install:
 
+```text id="t8q2ra"
 ESP32 by Espressif Systems
-🔌 Board Connection
+```
 
-Connect the MEMENTO board using the USB-C port.
+---
+
+## 🔌 Board Selection
 
 Select board:
 
-Adafruit pyCamera S3 
+```text id="w1n5xp"
+Adafruit pyCamera S3
+```
 
-Choose the correct COM port from:
+---
 
-Tools → Port
-📸 Camera Test Code
+## 📸 Camera Test Code
 
-▶ Upload Steps
-Connect USB-C cable
-Open Arduino IDE
-Select board and COM port
-Paste code
-Click Upload
+
+## ▶ Upload Steps
+
+1. Connect USB-C cable
+2. Open Arduino IDE
+3. Select board & COM port
+4. Upload code
 
 Open Serial Monitor:
 
+```text id="x4m8vb"
 115200 baud
+```
 
-Expected output:
-
-Starting Camera...
-Camera Ready!
-Capturing...
-📦 Features
-ESP32-S3 based
-Camera support
-USB programming
-Display support
-Wi-Fi + BLE
-Arduino compatible
-🚀 Future Improvements
-Save photos to SD card
-Live camera streaming
-Motion detection
-AI image recognition
-Web server camera feed
