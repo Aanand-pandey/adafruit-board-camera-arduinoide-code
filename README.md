@@ -3,12 +3,12 @@
 <tr>
 
 <td width="33%" valign="top" align="center">
-  <img src="https://github.com/Aanand-pandey/IoT-Home-Automation-And-monitoring-system/blob/main/photo_6_2026-05-01_20-01-18.jpg"
+  <img src="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/blob/main/adafruit_products_5420-03.jpg"
 width="100%"/>
 </td>
 
 <td width="33%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/Anand8689/IoT-Home-Automation-And-monitoring-system/98380f182f38c96788b867e42e601984c997b2ef/Screenshot%20(32).png" width="100%"/>
+  <img src="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/blob/main/adafruit_products_depends.png" width="100%"/>
 </td>
 
 <td width="33%" valign="top" align="center">
