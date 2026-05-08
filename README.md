@@ -12,8 +12,9 @@ width="100%"/>
 </td>
 
 <td width="33%" valign="top" align="center">
-  <img src="https://github.com/Aanand-pandey/IoT-Home-Automation-And-monitoring-system/blob/main/photo_7_2026-05-01_20-01-18%20-%20Copy.jpg"
-<img align="right"width="4000" height="2000" alt="image" />
+  <video width="400" height="250" controls>
+  <source src="https://github.com/Aanand-pandey/adafruit-board-camera-arduinoide-code/blob/main/video.mp4" type="video/mp4">
+</video>
 </td>
 
 </tr>
