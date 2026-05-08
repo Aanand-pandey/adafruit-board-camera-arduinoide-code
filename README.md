@@ -71,6 +71,9 @@ ESP32 by Espressif Systems
 
 ---
 
+required library installation:-Click the Manage Libraries ... menu item, search for Adafruit_PyCamera, and select the Adafruit PyCamera Library:
+
+
 ## 🔌 Board Selection
 
 Select board:
